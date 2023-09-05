@@ -17,7 +17,7 @@ return {
       "terraform",
       "typescript",
       "yaml",
-      "embedded_template",
+      "embedded-template",
     })
   end,
 }
