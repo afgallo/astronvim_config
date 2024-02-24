@@ -10,5 +10,4 @@ return {
   --   end,
   -- },
   "christoomey/vim-tmux-navigator",
-  "github/copilot.vim",
 }
